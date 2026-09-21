@@ -1,6 +1,6 @@
 cask "earnote" do
-  version "0.9.3"
-  sha256 "4ac671d8c3262d09dfc4734be522dc229440248a7a492617384963f1cb67c393"
+  version "0.9.4"
+  sha256 "6bd4a53d2ec61590548e7f6852e76fc7f57248c84eaaae3888a52f6894b5db45"
 
   url "https://github.com/louiskl/Earnote/releases/download/v#{version}/Earnote.dmg",
       verified: "github.com/louiskl/Earnote/"
