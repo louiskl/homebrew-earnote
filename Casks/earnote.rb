@@ -2,8 +2,7 @@ cask "earnote" do
   version "0.9.4"
   sha256 "6bd4a53d2ec61590548e7f6852e76fc7f57248c84eaaae3888a52f6894b5db45"
 
-  url "https://github.com/louiskl/Earnote/releases/download/v#{version}/Earnote.dmg",
-      verified: "github.com/louiskl/Earnote/"
+  url "https://github.com/louiskl/Earnote/releases/download/v#{version}/Earnote.dmg"
   name "Earnote"
   desc "Records lectures, meetings and calls and writes notes on your Mac"
   homepage "https://louiskl.github.io/Earnote/"
