@@ -5,7 +5,7 @@ cask "earnote" do
   url "https://github.com/louiskl/Earnote/releases/download/v#{version}/Earnote.dmg"
   name "Earnote"
   desc "Records lectures, meetings and calls and writes notes on your Mac"
-  homepage "https://louiskl.github.io/Earnote/"
+  homepage "https://earnote.dev/"
 
   livecheck do
     url :url
